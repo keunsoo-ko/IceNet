@@ -6,7 +6,7 @@ Keunsoo Ko and Chang-Su Kim
 School of Electrical Engineering, Korea University, Seoul, South Korea
 
 # Demo Video
-![image](https://github.com/keunsoo-ko/IceNet/blob/main/Access_Demo.gif){: width="80%"}
+![Demo](https://github.com/keunsoo-ko/IceNet/blob/main/Access_Demo.gif)
 
 # User Study Video
-![image](https://github.com/keunsoo-ko/IceNet/blob/main/Access_UserStudy.gif){: width="80%"}
+![UserStudy](https://github.com/keunsoo-ko/IceNet/blob/main/Access_UserStudy.gif)
