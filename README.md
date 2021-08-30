@@ -1,7 +1,8 @@
 # IceNet
 IceNet for Interactive Contrast Enhancement, 2021
 
-Keunsoo Ko and Chang-Su Kim \n
+Keunsoo Ko and Chang-Su Kim
+
 Korea University
 
 # Demo Video
