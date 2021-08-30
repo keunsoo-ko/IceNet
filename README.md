@@ -2,4 +2,7 @@
 IceNet for Interactive Contrast Enhancement
 
 # Demo Video
-[![Video Label](http://img.youtube.com/vi/dcXnBPX1l-0/0.jpg)](https://youtu.be/dcXnBPX1l-0?t=0s)
+<img src="https://mcl.korea.ac.kr/research/ksko_icenet/Access_Demo.gif">
+
+# User Study Video
+<img src="https://mcl.korea.ac.kr/research/ksko_icenet/Access_UserStudy.gif">
