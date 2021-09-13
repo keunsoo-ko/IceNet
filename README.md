@@ -1,6 +1,7 @@
 # IceNet
-| Input | &eta=0.6;| &eta=0.6;| &eta=0.6;|
-
+| Input | &eta;=0.4 | &eta;=0.6 | &eta;=0.8 | &eta;=1.0 |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img src="https://github.com/keunsoo-ko/IceNet/blob/main/img/LightHouse.png"> | <img src="https://github.com/keunsoo-ko/IceNet/blob/main/results/eta_40.png"> | <img src="https://github.com/keunsoo-ko/IceNet/blob/main/results/eta_60.png"> | <img src="https://github.com/keunsoo-ko/IceNet/blob/main/results/eta_80.png"> | <img src="https://github.com/keunsoo-ko/IceNet/blob/main/results/eta_100.png"> |
 
 IceNet for Interactive Contrast Enhancement, 2021
 
