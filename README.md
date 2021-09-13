@@ -5,6 +5,13 @@ Keunsoo Ko and Chang-Su Kim
 
 School of Electrical Engineering, Korea University, Seoul, South Korea
 
+### Demo Video
+![Demo](https://github.com/keunsoo-ko/IceNet/blob/main/video/Access_Demo.gif)
+
+### User Study Video
+![UserStudy](https://github.com/keunsoo-ko/IceNet/blob/main/video/Access_UserStudy.gif)
+
+
 ### Installation
 Download repository:
 ```
@@ -24,9 +31,3 @@ To reset the scribble map, press the key "1";
 To save the enhanced image, press the key "2";
 
 To finish demo, press the key "Esc"
-
-### Demo Video
-![Demo](https://github.com/keunsoo-ko/IceNet/blob/main/video/Access_Demo.gif)
-
-### User Study Video
-![UserStudy](https://github.com/keunsoo-ko/IceNet/blob/main/video/Access_UserStudy.gif)
