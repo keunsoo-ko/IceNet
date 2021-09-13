@@ -1,4 +1,7 @@
 # IceNet
+| Input | Output with <sub>&eta;</sub>|
+
+
 IceNet for Interactive Contrast Enhancement, 2021
 
 Keunsoo Ko and Chang-Su Kim
