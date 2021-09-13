@@ -1,5 +1,5 @@
 # IceNet
-| Input | Output with &eta;|
+| Input | &eta=0.6;| &eta=0.6;| &eta=0.6;|
 
 
 IceNet for Interactive Contrast Enhancement, 2021
