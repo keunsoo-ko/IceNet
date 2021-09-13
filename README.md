@@ -17,9 +17,13 @@ Run demo:
 ```
     $ python demo_interactive.py
 ```
-To reset the scribble map, push key "1";
-To save the enhanced image, push key "2";
-To finish demo, push key "Esc"
+In demo, press the key as shown below:
+
+To reset the scribble map, press the key "1";
+
+To save the enhanced image, press the key "2";
+
+To finish demo, press the key "Esc"
 
 ### Demo Video
 ![Demo](https://github.com/keunsoo-ko/IceNet/blob/main/video/Access_Demo.gif)
