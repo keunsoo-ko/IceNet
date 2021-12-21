@@ -22,7 +22,7 @@ Download repository:
 ```
     $ git clone https://github.com/keunsoo-ko/LFSR-AFR.git
 ```
-Pre-trained model will be uploaded.
+
 
 ### Usage
 Run demo:
