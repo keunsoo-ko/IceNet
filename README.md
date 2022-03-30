@@ -36,3 +36,8 @@ To reset the scribble map, press the key "1";
 To save the enhanced image, press the key "2";
 
 To finish demo, press the key "Esc"
+
+Run training:
+```
+    $ python Train.py
+```

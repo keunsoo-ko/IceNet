@@ -23,7 +23,7 @@ class IceNet(nn.Module):
 
 
 		
-	def forward(self, y, maps, e, lowlight):
+	def forward(self, y, maps, e, lowlight=None, is_train=False):
 		b, _, h, w = y.shape
 		x_ = torch.cat([y, maps], 1)
 
@@ -47,6 +47,9 @@ class IceNet(nn.Module):
 
 		# gamma correction
 		enhanced_Y = torch.pow(y,x_r)
-		# color restoration
-		enhanced_image = torch.clip(enhanced_Y*(lowlight/y), 0, 1)
-		return enhanced_image
+		if is_train:
+			return enhanced_Y, x_r
+		else:
+			# color restoration
+			enhanced_image = torch.clip(enhanced_Y*(lowlight/y), 0, 1)
+			return enhanced_image

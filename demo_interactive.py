@@ -45,9 +45,10 @@ def draw_circle(event,x,y,flags,param):
         cv2.circle(inputs, (x,y), 5, (255,0,0), -1)
         cv2.circle(scribble, (x,y), points, -1, -1)
 
+os.environ['CUDA_VISIBLE_DEVICES']="2"
 
 # load image
-img = Image.open('img/LightHouse.png')
+img = Image.open('/home/ksko/Desktop/Low-light/CVPR2022/BMVC_code/data/test_data/NPE/night (50).jpg')
 img = np.asarray(img)
 
 # rgb2y -> Tensor
